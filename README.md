@@ -3,7 +3,7 @@
 <h3 align="center">A future Data Scientist from France</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/7C90FHK7mEgAAAAC/dbz-goku.gif">
 
-- 🌱 I’m currently learning **data vizualisation**
+- 🌱 I’m currently learning **Microsoft Azure**
 
 - 📫 How to reach me **martinerwa@cy-tech.fr**
 
