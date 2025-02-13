@@ -3,8 +3,6 @@
 <h3 align="center">A Data Scientist from France</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/7C90FHK7mEgAAAAC/dbz-goku.gif">
 
-- 🌱 I’m currently learning **Streamlit**
-
 - 📫 How to reach me **erwan2309@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
