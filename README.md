@@ -1,11 +1,11 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 <h1 align="center">Hi, I'm Erwan</h1>
-<h3 align="center">A future Data Scientist from France</h3>
+<h3 align="center">A Data Scientist from France</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/7C90FHK7mEgAAAAC/dbz-goku.gif">
 
 - 🌱 I’m currently learning **Streamlit**
 
-- 📫 How to reach me **martinerwa@cy-tech.fr**
+- 📫 How to reach me **erwan2309@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
